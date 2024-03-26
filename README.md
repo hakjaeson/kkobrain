@@ -8,3 +8,7 @@
 - 실제 반영은 vanilajs 적용
 
 ## 2. 프론트엔드/Reacts(JS 버전)
+
+- 리액트 마이그레이션 (https://kkobrain-fawn.vercel.app/)
+
+## 3. 프론트엔드/Reacts(TS 버전)
